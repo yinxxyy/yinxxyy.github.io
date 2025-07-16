@@ -650,7 +650,7 @@
 
                    
 
-                    <a href="http://ljyxy.ip-ddns.com/jkds/syb/jkdssybsetup.exe" class="download-btn">
+                    <a href="http://qny.ljyxy.ip-ddns.com/jkds/syb/jkdssybsetup.exe" class="download-btn">
 
                         <i class="fas fa-download"></i>点击下载
 
